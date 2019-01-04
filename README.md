@@ -15,10 +15,10 @@ These paper and Blog lists are about Recommender System.
 
 - Salakhutdinov, Ruslan, and Andriy Mnih. "Bayesian probabilistic matrix factorization using Markov chain Monte Carlo." Proceedings of the 25th international conference on Machine learning. ACM, 2008.  [Cited 1074](https://dl.acm.org/citation.cfm?id=1390267)
 
-- ~~Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 8 (2009): 30-37.[Cited 5124](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)
--- ~~Netflix prize winner (Bellkor) paper.
+- ~~Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 8 (2009): 30-37.[Cited 5124]~~(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)
+-- ~~Netflix prize winner (Bellkor) paper.~~
 
 ### Blogs
-- ~~[Understanding matrix factorization for recommendation](http://nicolas-hug.com/blog/matrix_facto_1)
+- ~~[Understanding matrix factorization for recommendation]~~(http://nicolas-hug.com/blog/matrix_facto_1)
 - [What is the difference between Probabilistic Matrix Factorization (PMF) and SVD?](https://www.quora.com/What-is-the-difference-between-Probabilistic-Matrix-Factorization-PMF-and-SVD)
-- ~~[Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+- ~~[Matrix Factorization: A Simple Tutorial and Implementation in Python]~~(http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
