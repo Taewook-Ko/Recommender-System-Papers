@@ -1,5 +1,5 @@
 # Recommender-System-Papers
-These paper and URL lists are about Recommender System.
+These paper and Blog lists are about Recommender System.
 
 ## Survey paper
 - Recommender systems survey [Knowledge-based systems 2013]
