@@ -2,8 +2,8 @@
 These paper and Blog lists are about Recommender System.
 
 ## Survey paper
-- Recommender systems survey [Knowledge-based systems 2013]
-- Deep Learning based Recommender System: A Survey and New Perspectives [2017]
+ - Bobadilla, Jesús, et al. "Recommender systems survey." Knowledge-based systems 46 (2013): 109-132.[Cited 1546](https://ac.els-cdn.com/S0950705113001044/1-s2.0-S0950705113001044-main.pdf?_tid=e7acc45d-68f2-4d1c-a8b7-396edcf89f1f&acdnat=1546591087_cf6396f89c82bf1a0854150f4be99f62)
+- Zhang, Shuai, Lina Yao, and Aixin Sun. "Deep learning based recommender system: A survey and new perspectives." arXiv preprint arXiv:1707.07435 (2017).[Cited 117](https://arxiv.org/pdf/1707.07435.pdf)
 
 
 
