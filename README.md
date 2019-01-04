@@ -1,4 +1,4 @@
-# Recommender-System-Papers
+# Recommender System Papers
 These paper and Blog lists are about Recommender System.
 
 ## Survey paper
