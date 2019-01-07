@@ -31,5 +31,5 @@ These paper and Blog lists are about Recommender System.
 
 ### Blogs
 - ~~[Understanding matrix factorization for recommendation](http://nicolas-hug.com/blog/matrix_facto_1)~~
-- [What is the difference between Probabilistic Matrix Factorization (PMF) and SVD?](https://www.quora.com/What-is-the-difference-between-Probabilistic-Matrix-Factorization-PMF-and-SVD)
+- ~~[What is the difference between Probabilistic Matrix Factorization (PMF) and SVD?](https://www.quora.com/What-is-the-difference-between-Probabilistic-Matrix-Factorization-PMF-and-SVD)~~
 - ~~[Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)~~
