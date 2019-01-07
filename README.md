@@ -11,7 +11,7 @@ These paper and Blog lists are about Recommender System.
 
 ## Factorization 
 ### Papers
-- Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [Cited 2566](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)
+- ~~Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [Cited 2566](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)~~
 
 - Rendle, Steffen. "Factorization machines." Data Mining (ICDM), 2010 IEEE 10th International Conference on. IEEE, 2010.  [Cited 596](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 
@@ -25,9 +25,9 @@ These paper and Blog lists are about Recommender System.
 - Marlin, Benjamin, and Richard S. Zemel. "The multiple multiplicative factor model for collaborative filtering." Proceedings of the twenty-first international conference on Machine learning. ACM, 2004. [Cited 73](https://people.cs.umass.edu/~marlin/research/papers/mmf-icml2004.pdf)
 
 ### Lecture Slides
-- MATRIX FACTORIZATION METHODS FOR COLLABORATIVE FILTERING / Andriy Mnih and Ruslan Salakhutdinov / University of Toronto, Machine Learning Group. [Slides](https://www.cs.toronto.edu/~hinton/csc2515/notes/pmf_tutorial.pdf)
+- ~~MATRIX FACTORIZATION METHODS FOR COLLABORATIVE FILTERING / Andriy Mnih and Ruslan Salakhutdinov / University of Toronto, Machine Learning Group. [Slides](https://www.cs.toronto.edu/~hinton/csc2515/notes/pmf_tutorial.pdf)~~
 
-- Probabilistic Matrix Factorization / Piyush Rai / IIT Kanpur [Slides](https://www.cse.iitk.ac.in/users/piyush/courses/pml_winter16/slides_lec11.pdf)
+- ~~Probabilistic Matrix Factorization / Piyush Rai / IIT Kanpur [Slides](https://www.cse.iitk.ac.in/users/piyush/courses/pml_winter16/slides_lec11.pdf)~~
 
 ### Blogs
 - ~~[Understanding matrix factorization for recommendation](http://nicolas-hug.com/blog/matrix_facto_1)~~
