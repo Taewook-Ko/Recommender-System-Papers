@@ -22,6 +22,9 @@ These paper and Blog lists are about Recommender System.
 
 - Marlin, Benjamin, and Richard S. Zemel. "The multiple multiplicative factor model for collaborative filtering." Proceedings of the twenty-first international conference on Machine learning. ACM, 2004. [Cited 73](https://people.cs.umass.edu/~marlin/research/papers/mmf-icml2004.pdf)
 
+### Lectur Slides
+- MATRIX FACTORIZATION METHODS FOR COLLABORATIVE FILTERING / Andriy Mnih and Ruslan Salakhutdinov / University of Toronto, Machine Learning Group. [Slides](https://www.cs.toronto.edu/~hinton/csc2515/notes/pmf_tutorial.pdf)
+
 ### Blogs
 - ~~[Understanding matrix factorization for recommendation](http://nicolas-hug.com/blog/matrix_facto_1)~~
 - [What is the difference between Probabilistic Matrix Factorization (PMF) and SVD?](https://www.quora.com/What-is-the-difference-between-Probabilistic-Matrix-Factorization-PMF-and-SVD)
