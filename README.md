@@ -25,7 +25,7 @@ These paper and Blog lists are about Recommender System.
 ### Lecture Slides
 - MATRIX FACTORIZATION METHODS FOR COLLABORATIVE FILTERING / Andriy Mnih and Ruslan Salakhutdinov / University of Toronto, Machine Learning Group. [Slides](https://www.cs.toronto.edu/~hinton/csc2515/notes/pmf_tutorial.pdf)
 
--Probabilistic Matrix Factorization / Piyush Rai / IIT Kanpur [Slides](https://www.cse.iitk.ac.in/users/piyush/courses/pml_winter16/slides_lec11.pdf)
+- Probabilistic Matrix Factorization / Piyush Rai / IIT Kanpur [Slides](https://www.cse.iitk.ac.in/users/piyush/courses/pml_winter16/slides_lec11.pdf)
 
 ### Blogs
 - ~~[Understanding matrix factorization for recommendation](http://nicolas-hug.com/blog/matrix_facto_1)~~
