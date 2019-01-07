@@ -18,6 +18,10 @@ These paper and Blog lists are about Recommender System.
 - ~~Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 8 (2009): 30-37.[Cited 5124](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)~~
 -- ~~Netflix prize winner (Bellkor) paper.~~
 
+- Hofmann, Thomas. "Probabilistic latent semantic analysis." Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence. Morgan Kaufmann Publishers Inc., 1999. [Cited 2502](http://delivery.acm.org/10.1145/2080000/2073829/p289-hofmann.pdf?ip=147.46.242.197&id=2073829&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2ED83A6478590749B7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546855600_3caba76ab183f6015b6d83d6e335fe1d)
+
+- Marlin, Benjamin, and Richard S. Zemel. "The multiple multiplicative factor model for collaborative filtering." Proceedings of the twenty-first international conference on Machine learning. ACM, 2004. [Cited 73](https://people.cs.umass.edu/~marlin/research/papers/mmf-icml2004.pdf)
+
 ### Blogs
 - ~~[Understanding matrix factorization for recommendation](http://nicolas-hug.com/blog/matrix_facto_1)~~
 - [What is the difference between Probabilistic Matrix Factorization (PMF) and SVD?](https://www.quora.com/What-is-the-difference-between-Probabilistic-Matrix-Factorization-PMF-and-SVD)
