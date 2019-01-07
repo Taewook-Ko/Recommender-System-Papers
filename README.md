@@ -11,14 +11,16 @@ These paper and Blog lists are about Recommender System.
 
 ## Factorization 
 ### Papers
-- ~~Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [Cited 2566](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)~~
+- ~~Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 8 (2009): 30-37.[Cited 5124](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)~~
+-- ~~Netflix prize winner (Bellkor) paper.~~
 
-- Rendle, Steffen. "Factorization machines." Data Mining (ICDM), 2010 IEEE 10th International Conference on. IEEE, 2010.  [Cited 596](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+- Salakhutdinov, Ruslan, Andriy Mnih, and Geoffrey Hinton. "Restricted Boltzmann machines for collaborative filtering." Proceedings of the 24th international conference on Machine learning. ACM, 2007.[Cited 1333](http://delivery.acm.org/10.1145/1280000/1273596/p791-salakhutdinov.pdf?ip=147.46.242.197&id=1273596&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2ED83A6478590749B7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546884989_679fa6c2bb0ce1092c926b8d18301235)
+
+- ~~Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008. [Cited 2566](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)~~
 
 - Salakhutdinov, Ruslan, and Andriy Mnih. "Bayesian probabilistic matrix factorization using Markov chain Monte Carlo." Proceedings of the 25th international conference on Machine learning. ACM, 2008.  [Cited 1074](https://dl.acm.org/citation.cfm?id=1390267)
 
-- ~~Koren, Yehuda, Robert Bell, and Chris Volinsky. "Matrix factorization techniques for recommender systems." Computer 8 (2009): 30-37.[Cited 5124](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)~~
--- ~~Netflix prize winner (Bellkor) paper.~~
+- Rendle, Steffen. "Factorization machines." Data Mining (ICDM), 2010 IEEE 10th International Conference on. IEEE, 2010.  [Cited 596](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 
 - Hofmann, Thomas. "Probabilistic latent semantic analysis." Proceedings of the Fifteenth conference on Uncertainty in artificial intelligence. Morgan Kaufmann Publishers Inc., 1999. [Cited 2502](http://delivery.acm.org/10.1145/2080000/2073829/p289-hofmann.pdf?ip=147.46.242.197&id=2073829&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2ED83A6478590749B7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546855600_3caba76ab183f6015b6d83d6e335fe1d)
 
