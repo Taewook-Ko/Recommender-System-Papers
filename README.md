@@ -2,9 +2,11 @@
 These paper and Blog lists are about Recommender System.
 
 ## Survey paper
- - Bobadilla, Jesús, et al. "Recommender systems survey." Knowledge-based systems 46 (2013): 109-132.[Cited 1546](https://ac.els-cdn.com/S0950705113001044/1-s2.0-S0950705113001044-main.pdf?_tid=e7acc45d-68f2-4d1c-a8b7-396edcf89f1f&acdnat=1546591087_cf6396f89c82bf1a0854150f4be99f62)
+- Bobadilla, Jesús, et al. "Recommender systems survey." Knowledge-based systems 46 (2013): 109-132.[Cited 1546](https://ac.els-cdn.com/S0950705113001044/1-s2.0-S0950705113001044-main.pdf?_tid=e7acc45d-68f2-4d1c-a8b7-396edcf89f1f&acdnat=1546591087_cf6396f89c82bf1a0854150f4be99f62)
 - Zhang, Shuai, Lina Yao, and Aixin Sun. "Deep learning based recommender system: A survey and new perspectives." arXiv preprint arXiv:1707.07435 (2017).[Cited 117](https://arxiv.org/pdf/1707.07435.pdf)
 - Ricci, Francesco, Lior Rokach, and Bracha Shapira. "Recommender systems: introduction and challenges." Recommender systems handbook. Springer, Boston, MA, 2015. 1-34.[Cited 3899](http://fumblog.um.ac.ir/gallery/1057/Recommender%20Systems_%20Introduction%20and%20Challenges.pdf)
+
+- Shi, Jiarong, Xiuyun Zheng, and Wei Yang. "Survey on Probabilistic Models of Low-Rank Matrix Factorizations." Entropy 19.8 (2017): 424.[Cited 2](https://www.mdpi.com/1099-4300/19/8/424/htm)
 
 
 ## Factorization 
