@@ -7,7 +7,7 @@
 ## DL techniques
 - MLP / AutoEncoder / CNN / RNN / LSTM / RBM / 
 - Neural AutoRegressive Distribution Estimation
-- Adverserial Networks
+- Adversarial Networks
 - Attention Models
 - Deep RL
 
@@ -28,3 +28,28 @@
 ##### Recomm with Deep Structured Semantic Model
 
  
+## 2.AutoEncoder based RS
+#### AutoEncoder based Collarborative Filtering
+#### Feature Representation Learning with AE
+
+## 3.CNNs based RS
+#### CNNs based Collarborative Filtering
+#### Feature Representation Learning with CNNs
+#### Graph CNNs for RS
+
+## 4.RNNs based RS
+#### Session-based RS without User Identifier
+#### Sequential RS with User Identifier
+#### Feature Representation Learning with RNNs
+
+## 5.RBM based RS
+
+## 6.Neural Attention based RS
+#### RS with Vanilla Attention
+#### RS with Co-Attention
+
+## 7.Neural AutoRegressive based RS
+## 8.Deep RL based RS
+## 9.Adversarial Network based RS
+
+## 8.other Hybrid Models
