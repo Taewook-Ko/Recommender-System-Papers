@@ -23,9 +23,9 @@
 
 # Summuraize
 ## 1.MLP based RS
-##### Neural Extention of Traditional Recomm Method
-##### Feature Representation Learning with MLP
-##### Recomm with Deep Structured Semantic Model
+#### Neural Extention of Traditional Recomm Method
+#### Feature Representation Learning with MLP
+#### Recomm with Deep Structured Semantic Model
 
  
 ## 2.AutoEncoder based RS
