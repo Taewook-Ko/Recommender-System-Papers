@@ -22,9 +22,9 @@
 - Extensive Hyper-param Tuning
 
 # Summuraize
-## MLP based RS
-### 1. Neural Extention of Traditional Recomm Method
-### 2. Feature Representation Learning with MLP
-### 3. Recomm with Deep Structured Semantic Model
+#### MLP based RS
+##### Neural Extention of Traditional Recomm Method
+##### Feature Representation Learning with MLP
+##### Recomm with Deep Structured Semantic Model
 
  
