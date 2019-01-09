@@ -24,12 +24,25 @@
 # Summuraize
 ## 1.MLP based RS
 #### Neural Extention of Traditional Recomm Method
+* Neural Network Matrix Factorization (NNMF) [37] 
+*  Neural Collaborative Filtering (NCF) [53]
+* DeepFM [47]
+* improved DeepMF by proposing a eXtreme deep factorization machine to jointly model the explicit and implicit feature interactions [93] 
 #### Feature Representation Learning with MLP
+* Wide&Deep Learning [20], [13]
+* Candidata Generation, Candidata Ranking(YouTube) [27]
+* Facial Makeup [2]
+* Collarborative Metric Learning(VML) [60]
 #### Recomm with Deep Structured Semantic Model
+* DeepStructuredSemanticModel(DSSM) [65], application [39,182]
+* DeepSemanticSimilarity based PersonalizedRecommendation(DSPR) [182]
+* MultiViewDeepNeuralNetwork(MV-DNN) [39]
 
- 
 ## 2.AutoEncoder based RS
 #### AutoEncoder based Collarborative Filtering
+* AutoRec[125], extension of AutoRec(CFN) [136,137]   <- for rate prediction
+* CollarborativeDenoising AutoEncoder(CDAE) [177]   <- for ranking prediction
+
 #### Feature Representation Learning with AE
 
 ## 3.CNNs based RS
