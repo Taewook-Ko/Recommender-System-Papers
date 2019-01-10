@@ -1,4 +1,4 @@
-- 80 percent of movies watched on Netflix came from recommendations [43]
+- 80 percent of movies watched on Netflix came from recommendations [43](http://delivery.acm.org/10.1145/2850000/2843948/a13-gomez-uribe.pdfip=147.46.242.197&id=2843948&acc=OA&key=0EC22F8658578FE1%2ED83A6478590749B7%2E4D4702B0C3E38B35%2EE5B8A747884E71D5&__acm__=1547115484_4253f29da9483390cc2095e39bb8adac)
 - 60 percent of video clicks came from home page recommendation in YouTube [30]
 - presented a deep neural network based recommendation algorithm for video recommendation on YouTube [27] 
 - App recommender system for Google Play with a wide & deep model [20]
