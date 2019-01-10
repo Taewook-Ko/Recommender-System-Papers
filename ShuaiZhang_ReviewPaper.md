@@ -66,6 +66,7 @@ when selecting items [49]
 * proposed a personalized tag recommendation model based on CNNs.[110]
 * proposed a comparative deep leaning model with CNNs for image recommendation.[84]
 * ConTagNet [118] is a context-aware tag recommender system.
+
 CNNs for Text Feature Extraction
 * DeepCoNN [202] adopts two parallel CNNs to model user behaviors and item properties from review texts. 
 * extended DeepCoNN by introducing a latent layer to represent the target user-target-item pair. [11]
