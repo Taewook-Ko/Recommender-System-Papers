@@ -12,7 +12,7 @@
 - Zhang, Sen, Qiang Fu, and Wendong Xiao. "Advertisement Click-Through Rate Prediction Based on the Weighted-ELM and Adaboost Algorithm." Scientific Programming 2017 (2017).[2](https://www.hindawi.com/journals/sp/2017/2938369/abs/)
 - Richardson, Matthew, Ewa Dominowska, and Robert Ragno. "Predicting clicks: estimating the click-through rate for new ads." Proceedings of the 16th international conference on World Wide Web. ACM, 2007.[715](https://dl.acm.org/citation.cfm?id=1242643)
 - Graepel, Thore, et al. "Web-scale bayesian click-through rate prediction for sponsored search advertising in microsoft's bing search engine." Omnipress, 2010.[380](http://discovery.ucl.ac.uk/1395202/)
-- Trofimov, Ilya, Anna Kornetova, and Valery Topinskiy. "Using boosted trees for click-through rate prediction for sponsored search." Proceedings of the Sixth International Workshop on Data Mining for Online Advertising and Internet Economy. ACM, 2012.[35]https://dl.acm.org/citation.cfm?id=2351358
+- Trofimov, Ilya, Anna Kornetova, and Valery Topinskiy. "Using boosted trees for click-through rate prediction for sponsored search." Proceedings of the Sixth International Workshop on Data Mining for Online Advertising and Internet Economy. ACM, 2012.[35](https://dl.acm.org/citation.cfm?id=2351358)
 
 
 
