@@ -38,5 +38,5 @@ These paper and Blog lists are about Recommender System.
 
 ## DeepLearning Based RS
 - Neural Network Matrix Factorization
-- Neural Collarborative Filtering
-- DeepFM
+- He, Xiangnan, et al. "Neural collaborative filtering." Proceedings of the 26th International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017.[361](http://delivery.acm.org/10.1145/3060000/3052569/p173-he.pdf?ip=147.46.242.197&id=3052569&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2ED83A6478590749B7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1547460596_d51aabbb8b7e95331fd40e714c581150)
+- Guo, Huifeng, et al. "DeepFM: An End-to-End Wide & Deep Learning Framework for CTR Prediction." arXiv preprint arXiv:1804.04950 (2018).[67](https://arxiv.org/abs/1804.04950)
