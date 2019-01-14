@@ -13,7 +13,7 @@
 - Richardson, Matthew, Ewa Dominowska, and Robert Ragno. "Predicting clicks: estimating the click-through rate for new ads." Proceedings of the 16th international conference on World Wide Web. ACM, 2007.[715](https://dl.acm.org/citation.cfm?id=1242643)
 - Graepel, Thore, et al. "Web-scale bayesian click-through rate prediction for sponsored search advertising in microsoft's bing search engine." Omnipress, 2010.[380](http://discovery.ucl.ac.uk/1395202/)
 - Trofimov, Ilya, Anna Kornetova, and Valery Topinskiy. "Using boosted trees for click-through rate prediction for sponsored search." Proceedings of the Sixth International Workshop on Data Mining for Online Advertising and Internet Economy. ACM, 2012.[35](https://dl.acm.org/citation.cfm?id=2351358)
-
+- Gai, Kun, et al. "Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction." arXiv preprint arXiv:1704.05194 (2017).[8]
 
 
 
